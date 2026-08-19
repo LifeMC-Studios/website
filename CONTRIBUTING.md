@@ -27,12 +27,12 @@
 
 ## 🛡️ Code of Conduct
 
-🚫 Please note that the website of LifeMC project is governed by the Contributor's Agreement version 2.1. By participating, you are expected to abide by this code. Please report any unacceptable behaviour in the [Server Discord](https://discord.lifemcstudios.cloud)
+🚫 Please note that the website of LifeMC project is governed by the Contributor's Agreement version 2.1. By participating, you are expected to abide by this code. Please report any unacceptable behaviour in the [Server Discord](https://discord.lifemcstudios.com)
 
 ## 📚 Resources
 
-- 🎤 [Server Discord](https://discord.lifemcstudios.cloud)
-- 🔗 [Website](https://www.lifemcstudios.cloud)
+- 🎤 [Server Discord](https://discord.lifemcstudios.com)
+- 🔗 [Website](https://www.lifemcstudios.com)
 - 🐛 [Issue Tracker](https://github.com/LifeMC-Studios/website/issues)
 - 🔒 [Security Policy](https://github.com/LifeMC-Studios/website/blob/main/SECURITY.md)
 

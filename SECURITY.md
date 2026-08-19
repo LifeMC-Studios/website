@@ -9,7 +9,7 @@ Only the latest version of the website of LifeMC is supported by security update
 If you discover security vulnerabilities related to the website of LifeMC or its dependencies, please report them via one of the following channels:
 
 - 🔒 Open a new issue on our [GitHub Repository](https://github.com/LifeMC-Studios/website/issues) labeled "Security"
-- 🛡️ Alternatively, notify via email at security@lifemcstudios.cloud and provide information about the security issue and vulnerability.
+- 🛡️ Alternatively, notify via email at security@lifemcstudios.com and provide information about the security issue and vulnerability.
 
 ⏱️ Please provide as much information as possible about the vulnerability, including a clear description of the problem and steps to reproduce it. We will review and respond to all security issues related to the website of LifeMC or any of its included libraries and dependencies as soon as possible.
 
