@@ -1,7 +1,8 @@
 # Privacy Policy for LifeMC Studios Ecosystem
 
 **Effective Date:** August 19, 2026  
-**Last Updated:** August 19, 2026
+**Last Updated:** August 20, 2026  
+**Version:** 0.1.1
 
 At **LifeMC Studios** ("we", "our", or "us"), we respect user privacy across our entire open-source ecosystem—including the **LifeMC Modpack**, **Official Website**, **Documentation**, and **Discord Rich Presence (RPC)** integrations.
 
@@ -32,6 +33,7 @@ The LifeMC ecosystem relies on standard, official third-party APIs:
 
 - **Discord Rich Presence (RPC):** Rich Presence functionality operates locally on your client using official Discord APIs to display current game status. LifeMC does not transmit or store your Discord account data on external servers.
 - **Public Repositories & Distribution:** Modpack updates, configs, and assets are retrieved from official public platforms (such as Modrinth, GitHub, or packwiz indexes).
+- **Network Infrastructure & Safe Redirects:** To manage official short links and protect our infrastructure from malicious traffic, network requests pass through **Cloudflare**. Cloudflare temporarily processes technical network metadata (such as anonymized IP addresses and browser headers) strictly for security, DDoS protection, and request routing. No commercial tracking cookies or third-party profiling scripts are attached to our redirects or web links.
 
 ---
 
