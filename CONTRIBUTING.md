@@ -1,6 +1,6 @@
 # 🚀 Contribution Guidelines
 
- 🙌 Thank you for considering contributing to the website of LifeMC! We welcome all contributions, including bug fixes, new features and documentation improvements.
+🙌 Thank you for considering contributing to the website of LifeMC! We welcome all contributions, including bug fixes, new features and documentation improvements.
 
 ## 🔨 Getting Started
 
@@ -29,11 +29,11 @@
 
 🚫 Please note that the website of LifeMC project is governed by the Contributor's Agreement version 2.1. By participating, you are expected to abide by this code. Please report any unacceptable behaviour in the [Server Discord](https://discord.lifemcstudios.cloud)
 
-## 📚 Resources 
+## 📚 Resources
 
 - 🎤 [Server Discord](https://discord.lifemcstudios.cloud)
 - 🔗 [Website](https://www.lifemcstudios.cloud)
 - 🐛 [Issue Tracker](https://github.com/LifeMC-Studios/website/issues)
 - 🔒 [Security Policy](https://github.com/LifeMC-Studios/website/blob/main/SECURITY.md)
 
-> All rights reserved. © 2021-2025 LifeMC Studios
+> All rights reserved. © 2021-2026 LifeMC Studios
